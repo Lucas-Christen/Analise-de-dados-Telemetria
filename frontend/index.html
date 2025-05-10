@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telemetria F1</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridstack@9.2.2/dist/gridstack.min.css" />
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar sensor-panel">
+            <h2>Sensores</h2>
+            <input type="text" id="sensor-search" placeholder="Pesquisar sensor..." style="width:100%;margin-bottom:12px;padding:7px 10px;border-radius:6px;border:1px solid #232b47;background:#232b47;color:#b0b8c1;outline:none;" />
+            <form id="sensor-form"></form>
+        </aside>
+        <div class="container">
+            <header>
+                <h1>Analise de Dados Telemetria</h1>
+            </header>
+            <div id="charts-grid" class="grid-stack"></div>
+        </div>
+    </div>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gridstack@9.2.1/dist/gridstack-all.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
