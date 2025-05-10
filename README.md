@@ -58,10 +58,11 @@ http://localhost:5000
 - Atualização automática dos dados
 
 ## Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é protegido por direitos autorais. Todos os direitos reservados.  
+Não é permitida a cópia, uso, modificação ou distribuição deste software sem autorização prévia e por escrito do autor.
 
 ## Direitos Autorais
-© 2024 Lucas Fernandes Christen. Todos os direitos reservados.
+© 2025 Lucas Fernandes Christen. Todos os direitos reservados.
 
 Este projeto é protegido por direitos autorais. A reprodução, distribuição ou modificação não autorizada deste código é estritamente proibida.
 
