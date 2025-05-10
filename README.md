@@ -69,5 +69,3 @@ Este projeto é protegido por direitos autorais. A reprodução, distribuição 
 ## Contato
 Para mais informações ou suporte, entre em contato com o autor.
 
----
-Desenvolvido com ❤️ por Lucas Fernandes Christen 
