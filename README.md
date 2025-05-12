@@ -17,7 +17,7 @@ Este projeto consiste em uma aplicação web para análise e visualização de d
 .
 ├── backend/
 │   ├── app.py           # Servidor Flask
-│   ├── dados.csv        # Dados de telemetria
+│   ├── dados simulados.csv        # Dados de telemetria
 │   └── requirements.txt # Dependências Python
 └── frontend/
     ├── index.html       # Interface principal
